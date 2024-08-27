@@ -1,4 +1,4 @@
-# CSE370 - Database Systems - Group Project - Money Transaction System (TakaLagbe!) - PHP, HTML, CSS - Spring'24
+# CSE370 - Database Systems - Group Project - Money Transaction System (TakaLagbe!) - Spring'24
 
 Welcome to my CSE370 project repository! This repository contains the project I completed alongside with my groupmates during my coursework at BRAC University as part of my Bachelor's in Computer Science and Engineering (CSE).
 
